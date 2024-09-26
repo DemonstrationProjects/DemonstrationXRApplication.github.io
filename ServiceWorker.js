@@ -1,9 +1,9 @@
-const cacheName = "PrototypeForSSVR-DemonstrationXRApplication-0.0.0.1";
+const cacheName = "PrototypeForSSVR-DemonstrationXRApplication-0.0.1.0";
 const contentToCache = [
-    "Build/DemonstrationXRApplication.loader.js",
-    "Build/DemonstrationXRApplication.framework.js",
-    "Build/DemonstrationXRApplication.data",
-    "Build/DemonstrationXRApplication.wasm",
+    "Build/DemonstrationXRApplication.github.io.loader.js",
+    "Build/DemonstrationXRApplication.github.io.framework.js",
+    "Build/DemonstrationXRApplication.github.io.data",
+    "Build/DemonstrationXRApplication.github.io.wasm",
     "TemplateData/style.css"
 
 ];
